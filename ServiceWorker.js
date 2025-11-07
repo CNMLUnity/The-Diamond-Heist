@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Pallavi-BlackBeltGame-0.1";
 const contentToCache = [
-    "Build/Pallavi - BlackBeltGame.loader.js",
-    "Build/Pallavi - BlackBeltGame.framework.js",
-    "Build/Pallavi - BlackBeltGame.data",
-    "Build/Pallavi - BlackBeltGame.wasm",
+    "Build/The-Diamond-Heist.loader.js",
+    "Build/The-Diamond-Heist.framework.js",
+    "Build/The-Diamond-Heist.data",
+    "Build/The-Diamond-Heist.wasm",
     "TemplateData/style.css"
 
 ];
